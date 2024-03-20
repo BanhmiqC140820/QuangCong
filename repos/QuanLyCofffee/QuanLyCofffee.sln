@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBanSach", "WebBanSach\WebBanSach.csproj", "{E739FEF8-DF26-4356-B318-CBBC8B15C8BC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuanLyCofffee", "QuanLyCofffee\QuanLyCofffee.csproj", "{B3D99509-6704-4186-A9B9-9B0EDADD2BF3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E739FEF8-DF26-4356-B318-CBBC8B15C8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E739FEF8-DF26-4356-B318-CBBC8B15C8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E739FEF8-DF26-4356-B318-CBBC8B15C8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E739FEF8-DF26-4356-B318-CBBC8B15C8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3D99509-6704-4186-A9B9-9B0EDADD2BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3D99509-6704-4186-A9B9-9B0EDADD2BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3D99509-6704-4186-A9B9-9B0EDADD2BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3D99509-6704-4186-A9B9-9B0EDADD2BF3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {013D797C-6953-48D5-B734-BEBA12ED4C5F}
+		SolutionGuid = {F7ED535E-8CFD-4A5B-B487-82C39ECD8B04}
 	EndGlobalSection
 EndGlobal

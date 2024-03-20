@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBanSach", "WebBanSach\WebBanSach.csproj", "{E739FEF8-DF26-4356-B318-CBBC8B15C8BC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{A466CFA0-90F8-460B-ADBC-6D0D73065D0B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E739FEF8-DF26-4356-B318-CBBC8B15C8BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E739FEF8-DF26-4356-B318-CBBC8B15C8BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E739FEF8-DF26-4356-B318-CBBC8B15C8BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E739FEF8-DF26-4356-B318-CBBC8B15C8BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A466CFA0-90F8-460B-ADBC-6D0D73065D0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A466CFA0-90F8-460B-ADBC-6D0D73065D0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A466CFA0-90F8-460B-ADBC-6D0D73065D0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A466CFA0-90F8-460B-ADBC-6D0D73065D0B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {013D797C-6953-48D5-B734-BEBA12ED4C5F}
+		SolutionGuid = {88E05524-3FA2-44CA-8F79-340E26A14E8B}
 	EndGlobalSection
 EndGlobal
